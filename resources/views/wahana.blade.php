@@ -43,7 +43,7 @@
                          class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500">
                     
                     <!-- Overlay dengan nama wahana -->
-                    <div class="absolute inset-0 bg-black bg-opacity-40 flex items-end p-4 sm:p-6">
+                    <div class="absolute inset-0 bg-black bg-opacity-10 flex items-end p-4 sm:p-6">
                         <div class="text-white">
                             <h3 class="text-xl sm:text-2xl font-bold mb-2 drop-shadow-lg">{{ $facility->name }}</h3>
                         </div>
